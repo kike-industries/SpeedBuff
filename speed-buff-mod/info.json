@@ -1,0 +1,10 @@
+{
+    "title": "Speed Buff Mod",
+    "name": "speed-buff-mod",
+    "author": "Mike Süberkrüb",
+    "version": "1.0.0",
+    "factorio_version": "1.1.61",
+    "license": "Creative Commons Attribution-NoDerivatives 4.0 International License",
+    "description": "Mod that increases your speed, as long as you're far enough away from enemies",
+    "dependencies": ["base >= 1.1.61"]
+}
